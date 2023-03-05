@@ -69,6 +69,7 @@ Odoo v14 and higher
 55. odoo_wizard
 56. odoo_report_button
 57. odoo_return_form_action
-
 58. odoo_return_action_tree
 59. odoo_import_exceptions
+
+##### Thanks to [Mohammed Magdy](https://github.com/mohamedmagdy) for building most of it.
